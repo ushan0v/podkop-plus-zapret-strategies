@@ -5,7 +5,7 @@
 
 Адаптированные NFQWS-стратегии из [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube/) для [Forkop](https://github.com/ushan0v/forkop).
 
-Источник стратегий: [zapret-discord-youtube/releases/1.9.8c](https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.8c).
+Источник стратегий: [zapret-discord-youtube/releases/1.9.9d](https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.9d).
 
 ## Что внутри
 
